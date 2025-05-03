@@ -2,6 +2,9 @@
 
 ###
 <h3 align="center">💻💻______| FullStack Developer |______💻💻</h3>
+<img align="right" height="400" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg3cnRidjFienUzYmg3YnpkY3JtOWRhaGg2OTd0OXJoMHMwZnpnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlRpYzrkHbtSYDAlaE/giphy.gif"  />
+
+###
 
 - 🔭 I’m currently working on **My Own Projects...**
 
@@ -87,10 +90,9 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ankit-ks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dev-Ankit-ks&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=8" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ankit-ks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dev-Ankit-ks&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=8" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Ankit-ks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
-###
 
