@@ -2,7 +2,7 @@
 
 ###
 <h3 align="center">💻💻______| FullStack Developer |______💻💻</h3>
-<img align="right" height="400" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJhdWFqZTE0OHIxcXU5MmMzMnJhNjJ6eGtnZTlwdWdxeXZmbmN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Q31McooUHTNu/giphy.gif"  />
+<img align="right" height="370" width="370" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJhdWFqZTE0OHIxcXU5MmMzMnJhNjJ6eGtnZTlwdWdxeXZmbmN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Q31McooUHTNu/giphy.gif"  />
 
 ###
 
