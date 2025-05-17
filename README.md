@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **devankit.ks@gmail.com**
 
-- 📄 Know about my experiences [I Will Post Soon](I Will Post Soon)
+- 📄 Know about my experiences -> Worked at Hexile Services as Freelancer 
 
 - ⚡ Fun fact **Android Studio also lags in macbook....😅😅**
 <h3 align="left">📱📱 For App Development.... 📱📱</h3>
