@@ -19,62 +19,105 @@
 - 📄 Know about my experiences -> Worked at Hexile Services as Freelancer 
 
 - ⚡ Fun fact **Android Studio also lags in macbook....😅😅**
-<h3 align="left">📱📱 For App Development.... 📱📱</h3>
+<br clear="both">
+<h4 align="left">Programming Languages</h4>
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+</div>
+
+<h4 align="left">Mobile App Developement</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="androidstudio logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35" alt="android logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="35" alt="gradle logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
 </div>
 
 ###
 
-<h3 align="left">🖥 For Backend Development.... 🖥</h3>
+<h4 align="left">Backend</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="35" alt="appwrite logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
 </div>
 
 ###
 
-
-<h3 align="left">🚩🚩 For Deployment 🚩🚩</h3>
+<h4 align="left">Database</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="35" alt="heroku logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
 </div>
+
+###
+
+<h4 align="left">Monitoring & Documentation</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="prometheus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo"  />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" height="50" alt="swagger logo" />
+
+</div>
+
+###
+<h4 align="left">Message Queues</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="rabbitmq logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="apachekafka logo"  />
+</div>
+
+###
+
+<h4 align="left">Testing</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
 
 <h2 align="left">👀 Connect With Me 👀</h2>
 
